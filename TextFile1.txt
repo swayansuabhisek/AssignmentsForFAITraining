@@ -1,0 +1,8 @@
+﻿---------------------- Movie World Software 1.0-----------------------------
+
+TO ADD NEW MOVIE --------------------------------------> PRESS N
+TO DELETE AN MOVIE ------------------------------------> PRESS D
+TO UPDATE AN MOVIE ------------------------------------> PRESS U
+TO FIND AN MOVIE --------------------------------------> PRESS F
+
+IF YOU ENTER ANY OTHER BUTTON THEN IT WILL GO FOR EXIT.
